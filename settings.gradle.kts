@@ -1,0 +1,1 @@
+rootProject.name = "thrive_ex_manual"
